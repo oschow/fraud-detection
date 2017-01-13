@@ -1,0 +1,10 @@
+*.pyc
+.idea
+.ipynb_checkpoints
+*.bak
+*.swp
+*.ods#
+*.csv#
+*.json
+*.fuse_hidden*
+subset_json.py
